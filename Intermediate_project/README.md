@@ -12,4 +12,7 @@
 - Детализация причин почему заказы не доставляются
 - Когортный анализ пользователей (retention)
 - RFM-сегментация пользователей
+
+### Итоги:
+- Данный анализ поможет бизнесу лучше понять поведение своей ЦА и выявить проблемы в работе сервиса
 ## Файл решения тут: [E-commerce](https://github.com/Mihail-Olegovich/Karpov_courses_lessons_and_projects/blob/master/Intermediate_project/e-commerce.ipynb)
